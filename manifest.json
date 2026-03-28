@@ -1,0 +1,17 @@
+{
+  "name": "Kitap Evreni",
+  "short_name": "KitapEvreni",
+  "description": "Fantastik üçleme dünya inşa aracı",
+  "start_url": "./kitap-evreni.html",
+  "display": "standalone",
+  "background_color": "#0d0e12",
+  "theme_color": "#c9a84c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' fill='%230d0e12'/%3E%3Ctext x='96' y='130' font-size='100' text-anchor='middle' fill='%23c9a84c'%3E✦%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
